@@ -23,7 +23,7 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> The process that our group chose to observe is the attendance checking process in which the presence of that I divulged is recorded and logged in order to keep track of the number of their absences, tardiness, and more.
 
 <br>
 
