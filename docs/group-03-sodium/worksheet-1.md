@@ -9,8 +9,8 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
+| **Team Members**           | 1.Andrew Lester L. Egaran      |
+|                            | 2.John Nathaniel A. Andres      |
 |                            | 3.      |
 |                            | 4.      |
 |                            | 5.      |
