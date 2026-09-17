@@ -46,11 +46,11 @@
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    |  The teacher looks around the classroom to check the students | Teacher
+| 2    |  Teacher takes note of any absences, lates, and students with incomplete uniform  |          Teacher            |
+| 3    |  Class secretary hands the attendance sheet over to the teacher for signing | Class Secretary    |
+| 4    |  Teacher signs the attendance in attendance sheet   |        Teacher              |
+| 5    |  Teacher completes checking attendance and returns it to class secretary  | Class Secretary,  Teacher  |
 
 ---
 
