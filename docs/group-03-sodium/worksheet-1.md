@@ -74,7 +74,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> Our Proposed system would improve the taking of attendance, by making it faster by scanning a QR or go to a link/website for the attendance of said classroom.
 
 <br>
 
@@ -89,8 +89,8 @@
 
 > **Keep your proposed system simple. Your project will be subject to teacher approval.**
 
-| Feature | Purpose |
-| ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| Feature              | Purpose |
+| -------              | ------- |
+| 1. Online Attendance | Digital Copy of data|
+| 2. Access Anywhere   | Take Attendance Anywhere within Campus|
+| 3. Faster Input      | Faster Process of Taking Attendance|
