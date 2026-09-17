@@ -58,7 +58,7 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> Our group observed that keeping attendance records for the whole year through paper is incredibly inefficient. This is because of the time taken to write those who are absent/tardy and the paper material wasted. Also, written attendance records have a chance of being damaged, lost, or even intentionally vandalized. 
+> Our group observed that keeping attendance records for the whole year through paper is incredibly inefficient. This is because of the time taken to write those who are absent/tardy and the paper material wasted. Also, written attendance records have a chance of being damaged, lost, or even intentionally vandalized. Additionally compiling it all is manual, causing it to take a long time to gather the records.
 
 <br>
 
