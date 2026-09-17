@@ -9,10 +9,10 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.Andrew Lester L. Egaran      |
-|                            | 2.John Nathaniel A. Andres      |
+| **Team Members**           | 1.Andrew Lester L. Egaran|
+|                            | 2.John Nathaniel A. Andres|
 |                            | 3.Juancho Sebastian P. Pasamonte|
-|                            | 4.      |
+|                            | 4.Justin Paul C. Ongbay|
 |                            | 5.      |
 |                            | 6.      |
 | **PSHS-DRC Area/Location** |         |
