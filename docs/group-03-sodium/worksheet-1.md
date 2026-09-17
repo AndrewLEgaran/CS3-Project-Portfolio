@@ -64,7 +64,7 @@
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.
+> The recording and storing of attendance data. Instead of writing on paper, this step can be automated using a digital system to save time, prevent paper waste, and keep records safe from damage or loss.
 
 <br>
 
