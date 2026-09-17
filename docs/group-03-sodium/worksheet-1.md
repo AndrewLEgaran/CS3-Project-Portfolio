@@ -80,10 +80,10 @@
 
 ### 2. Who would use the system?
 
-| User/Role | Possible Use |
-| --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| User/Role  | Possible Use |
+| ---------  | ------------ |
+| 1. Students| Attendance   |
+| 2. Teacher | Attendance   |
 
 ### 3. What are the essential features?
 
