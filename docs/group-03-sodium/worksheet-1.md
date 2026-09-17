@@ -13,7 +13,7 @@
 |                            | 2.John Nathaniel A. Andres|
 |                            | 3.Juancho Sebastian P. Pasamonte|
 |                            | 4.Justin Paul C. Ongbay|
-|                            | 5.      |
+|                            | 5.Remgie Faye A. Patenio|
 |                            | 6.      |
 | **PSHS-DRC Area/Location** |         |
 
