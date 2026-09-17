@@ -39,8 +39,8 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1.Students  |Checking in attendance         |
+| 2.Teachers  |Checking in every period       |
 
 ### 4. What are the steps in the current process?
 
