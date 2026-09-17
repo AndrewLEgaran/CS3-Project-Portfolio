@@ -3,7 +3,7 @@
 ## Members
 
 1. 
-2. 
+2. Juancho Sebastian P. Pasamonte
 3. Remgie Faye A. Patenio
 4. 
 5. 
