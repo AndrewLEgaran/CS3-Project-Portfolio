@@ -9,12 +9,12 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.Andrew Lester L. Egaran|
-|                            | 2.John Nathaniel A. Andres|
-|                            | 3.Juancho Sebastian P. Pasamonte|
-|                            | 4.Justin Paul C. Ongbay|
-|                            | 5.Remgie Faye A. Patenio|
-|                            | 6.Keonna Pauline C. Machacon      |
+| **Team Members**           | 1. Andrew Lester L. Egaran|
+|                            | 2. John Nathaniel A. Andres|
+|                            | 3. Juancho Sebastian P. Pasamonte|
+|                            | 4. Justin Paul C. Ongbay|
+|                            | 5. Remgie Faye A. Patenio|
+|                            | 6. Keonna Pauline C. Machacon      |
 | **PSHS-DRC Area/Location** |         |
 
 ---
