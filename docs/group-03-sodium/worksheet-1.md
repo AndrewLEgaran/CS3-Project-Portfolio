@@ -11,7 +11,7 @@
 | **Proposed Project Title** |         |
 | **Team Members**           | 1.Andrew Lester L. Egaran      |
 |                            | 2.John Nathaniel A. Andres      |
-|                            | 3.      |
+|                            | 3.Juancho Sebastian P. Pasamonte|
 |                            | 4.      |
 |                            | 5.      |
 |                            | 6.      |
