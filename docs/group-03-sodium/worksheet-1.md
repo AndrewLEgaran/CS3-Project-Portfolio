@@ -15,7 +15,7 @@
 |                            | 4. Justin Paul C. Ongbay|
 |                            | 5. Remgie Faye A. Patenio|
 |                            | 6. Keonna Pauline C. Machacon      |
-| **PSHS-DRC Area/Location** |         |
+| **PSHS-DRC Area/Location** | Academic Building 1        |
 
 ---
 
