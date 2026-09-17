@@ -29,7 +29,7 @@
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> The purpose of this process is to monitor the number of absents, tardy, and incomplete uniforms of students.
 
 <br>
 
@@ -46,7 +46,7 @@
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
+| 1    |               |
 | 2    |               |                      |
 | 3    |               |                      |
 | 4    |               |                      |
@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> Our group observed that keeping attendance records for the whole year through paper is incredibly inefficient. This is because of the time taken to write those who are absent/tardy and the paper material wasted. Also, written attendance records have a chance of being damaged, lost, or even intentionally vandalized. 
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> *Write your answer here.
 
 <br>
 
