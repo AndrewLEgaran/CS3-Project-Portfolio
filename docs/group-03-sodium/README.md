@@ -2,13 +2,13 @@
 
 ## Members
 
-1. 
+1. Andrew Lester L. Egaran
 2. Juancho Sebastian P. Pasamonte
 3. Remgie Faye A. Patenio
-4. 
-5. 
-6. 
+4. John Nathaniel A. Andres
+5. Justin Paul C. Ongbay
+6. Keonna Pauline C. Machacon
 
 ## Project Title
 
-_To be determined._
+Project: FOA (Faster Online Attendance)
