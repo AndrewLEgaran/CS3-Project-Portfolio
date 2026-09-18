@@ -8,7 +8,7 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
+| **Proposed Project Title** | Project: FOA (Faster Online Attendance)        |
 | **Team Members**           | 1. Andrew Lester L. Egaran|
 |                            | 2. John Nathaniel A. Andres|
 |                            | 3. Juancho Sebastian P. Pasamonte|
