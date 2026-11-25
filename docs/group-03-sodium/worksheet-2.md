@@ -67,11 +67,9 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |Teachers         |Teachers are able to record the information of attendance and make changes.|
+| 2 |Students         |Students are able to inherit a class monitor status, absent status, and other statuses needed for attendance.|
+| 3 |Attendance_Sheet |Fills out the required information for the attendance and inherits the data needed.|
 
 ---
 
